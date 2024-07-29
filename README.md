@@ -1,6 +1,6 @@
-# HumanTrackingDrone Environment in Unreal Engine 4
+# HumanTrackingDrone Custom Environment in Unreal Engine 4
 
-This repo consist of the source code for building custom environment for HumanTrackingDrone project, developed with Unreal Engine 4.
+This repo consist of the source code for building custom environment for [HumanTrackingDrone project](https://github.com/tyseng92/Human-Searching-System-using-Drones-with-Deep-Reinforcement-Learning), developed with Unreal Engine 4.
 
 ## Intructions
 - Install Unreal Engine with Epic Games Launcher [here](https://www.unrealengine.com/en-US/download).
